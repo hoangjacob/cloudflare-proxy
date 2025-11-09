@@ -1,3 +1,3 @@
-name = "cubari-proxy"
+name = "cubari"
 main = "workers.js"
 compatibility_date = "2024-11-09"
